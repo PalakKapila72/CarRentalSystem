@@ -1,0 +1,6 @@
+Sedan|V101|Honda|City ZX|CH-01-AB-1011|2200|0|506|1
+Sedan|V102|Hyundai|Verna Turbo|PB-65-AX-2022|2400|0|528|1
+SUV|V103|Toyota|Fortuner 4x4|HR-26-DJ-3033|4500|0|1|7
+SUV|V104|Mahindra|Thar LX|CH-01-TC-4044|3200|0|1|4
+Hatchback|V105|Maruti|Swift ZXi|PB-10-BZ-5055|1400|0|23.2
+Hatchback|V106|Hyundai|i20 Asta|HR-70-DA-6066|1600|0|20.3

@@ -1,0 +1,11 @@
+# Binaries and compiled files
+*.exe
+*.o
+*.out
+CarRentalSystem.exe
+
+# Editor directories
+.vscode/
+.idea/
+*.swp
+*.suo
